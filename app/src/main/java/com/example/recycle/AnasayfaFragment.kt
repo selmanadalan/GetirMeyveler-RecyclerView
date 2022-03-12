@@ -57,6 +57,8 @@ class AnasayfaFragment : Fragment() {
         tasarim.rvMeyve.adapter = adapter
 
 
+        //Meyveler
+        //Güzel
 
         return tasarim
     }
